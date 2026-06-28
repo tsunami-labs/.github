@@ -1,9 +1,9 @@
 # Buildify
 
-Buildify helps you [one-line description of what the product does].
+Buildify helps you win more construction projects with AI-Powered intelligence
 
-🌐 [public site / landing page URL]
-✉️  Contact: [email or contact link]
+🌐 buildify.uk
+✉️  Contact: to.uzunoglu@gmail.com
 
 This organization's repositories are private. Collaborators: switch to the
 Member view (sidebar) for the project map.
